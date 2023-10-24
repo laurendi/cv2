@@ -1,2 +1,2 @@
 # cv2
-System Foundry VTT pour Coeurs Vaillants
+A system for playing Coeurs Vaillants 2 role-playing game in the Foundry Virtual Tabletop environment.
