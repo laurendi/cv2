@@ -1,6 +1,23 @@
 {
+  /* Elements obligatoire */
   "id": "cv2",
   "title": "Coeurs Vaillants 2",
   "description": "A system for playing Coeurs Vaillants 2 role-playing game in the Foundry Virtual Tabletop environment.",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  /* Données optionnelles */
+  /* Compatibilité du system */
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11",
+    "maximum": "11"
+  },
+  /* Identification de l'auteur */
+  "authors": [
+    {
+      "name": "Laurendi",
+      "url": "https://coeurs-vaillants.app",
+      "email": "laurendi@coeurs-vaillants.app",
+      "discord": "laurendi"
+    }
+  ]
 }
